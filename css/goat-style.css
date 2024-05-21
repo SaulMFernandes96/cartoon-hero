@@ -1,0 +1,40 @@
+body {
+    background-color: #F2F0D8; /* Adjust background color to match your theme */
+    justify-content: center;
+    text-align: center;
+
+}
+
+.container {
+    text-align: center;
+    width: 100%; /* Ensures the container takes full width */
+    max-width: 600px; /* Optional: set a max-width for better appearance */
+}
+
+h1 {
+    color: #5FCDD9; /* Adjust text color */
+}
+h2{
+	color:#99BF0F ;
+}
+h3{
+	color:#EBF216 ;
+}
+.big{
+	font-size: 30px;
+}
+
+.uppercase {
+	text-transform: uppercase;
+}
+
+img {
+    width: 300px; /* Set desired width */
+    height: auto; /* Maintain aspect ratio */
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+    margin: 20px 0; /* Adds spacing between paragraphs */
+}
