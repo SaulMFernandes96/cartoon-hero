@@ -1,3 +1,6 @@
+body{
+	background-color: lightslategrey;
+}
 h1{
 	font-size: 30px;
 	color: #DE3163;
@@ -20,9 +23,9 @@ h2{
 	text-transform: uppercase;
 }
 .big.uppercase{
-	color: #6495ED;
+	color: ghostwhite;
 }
 
 h1 span{
-	color: #CCCCFF;
+	color: #DFFF00;
 }
