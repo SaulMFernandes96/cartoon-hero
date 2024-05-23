@@ -1,0 +1,78 @@
+body{
+margin: 0px;
+line-height: 45px;
+font-size: 30px;
+font-family: sans-serif;
+background-color: #F2E74B;
+}
+
+header{
+	background-color: #F2E74B;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	width: 100%;
+}
+
+h1, h2 {
+	font-family: 'SpongeBob Font Wide', sans-serif;
+	font-size: 30px;
+	color: #1F85DF;
+	padding-top: 30px;
+}
+header h1{
+	color: #1F85DF;
+	font-family: 'SpongeBob Font Condensed', sans-serif;
+	font-size: 80px;
+	border:  10px white;
+}
+
+header img{
+	border-radius: 100px;
+	width: 350px;
+}
+
+main{ 
+	max-width: 1000px;
+	margin: 0 auto;
+	background-color: #FAF4E8;
+	padding: 10px 50px;
+
+}
+
+main img{
+	max-width: 100%;
+	padding-top: 20px;
+}
+
+a{
+	color: #1F85DF;
+}
+
+a:hover{
+	background-color:#1F85DF;
+	color:#F2E74B;
+}
+
+footer{
+ 	background-color: #F2E74B;
+	text-align: center;
+	color: #1F85DF;
+	padding:20px 430px;
+	font-size: 25px;
+ }
+
+ footer p{
+ 	margin: 0;
+ }
+
+ footer a{
+ 		color: #1F85DF;
+ }
+
+ p.caption{
+ 	color: #999999;
+ 	font-size: 30px;
+ 	font-style: italic;
+ 	margin-top: 0;
+ }
